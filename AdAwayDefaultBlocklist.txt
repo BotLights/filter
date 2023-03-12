@@ -1,0 +1,6 @@
+# AdAwayDefaultBlocklist
+#
+# Converted from - https://adaway.org/hosts.txt
+# Last converted - Sun, 12 Mar 2023 05:53:11 +0000
+#
+
